@@ -5,7 +5,7 @@ const coinSchema = new mongoose.Schema({
     type :String  ,
     unique: true
   },
-  name : {
+  name: {
     type :String  ,
     unique: true
   },
